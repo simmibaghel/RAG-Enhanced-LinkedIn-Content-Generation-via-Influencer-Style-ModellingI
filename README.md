@@ -1,4 +1,4 @@
-# RAG-Enhanced LinkedIn Content Generation via Influencer Style Modelling
+# RAG-Enhanced LinkedIn Content Generation via Influencer Style Modelling
 
 AI Post Genius is a professional Retrieval-Augmented Generation (RAG) tool designed to generate style-consistent LinkedIn content. Unlike generic AI writers, this tool analyzes an influencer's past posting history (Style DNA) to ensure every generated post matches their unique voice, tone, and structure.
 
